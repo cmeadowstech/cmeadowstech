@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello there 👋
+
+Aspiring Cloud Engineer currently using GitHub to store my personal projects and scripts. 
+
+<br>
+
+:blue_book: <a href="https://github.com/cmeadowstech/scripts">[scripts]</a> - Currently just PowerShell, though hopefully I can add Python soon
+
+:computer: <a href="https://github.com/cmeadowstech/Website">[website]</a> - For the <a href="https://cloudresumechallenge.dev/">Cloud Resume Challenge</a>. Currently half complete until I can pick up Python and/or JavaScript. On the way! 
+
 
 <!--
 **cmeadowstech/cmeadowstech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
