@@ -4,7 +4,7 @@ Aspiring Cloud Engineer currently using GitHub to store my personal projects and
 
 <br>
 
-:blue_book: <a href="https://github.com/cmeadowstech/scripts">[scripts]</a> - Some powershell for Work, and personal Python projects.
+:blue_book: <a href="https://github.com/cmeadowstech/scripts">[scripts]</a> - A splattering of PowerShell, Python, and IAC of both the work and personal variety. 
 
 :computer: <a href="https://github.com/cmeadowstech/Website">[website]</a> - For the <a href="https://cloudresumechallenge.dev/">Cloud Resume Challenge</a>. Currently half complete until I can pick up Python and/or JavaScript. On the way! 
 
