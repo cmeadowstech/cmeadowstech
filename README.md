@@ -1,6 +1,6 @@
 # Hello there 👋
 
-Aspiring Cloud Engineer currently using GitHub to store my personal projects and scripts. 
+Cloud Engineer currently using GitHub to store my personal projects and scripts. 
 
 <br>
 
