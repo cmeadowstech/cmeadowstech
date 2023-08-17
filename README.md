@@ -4,6 +4,8 @@ Cloud Engineer currently using GitHub to store my personal projects and scripts.
 
 <br>
 
+:tea: <a href="https://github.com/cmeadowstech/scripts">[scripts]</a> - Website built with Django, Bootstrap, and HTMX. Hosted on Fly.io with a PostGres database.
+
 :blue_book: <a href="https://github.com/cmeadowstech/scripts">[scripts]</a> - A splattering of PowerShell, Python, and IAC of both the work and personal variety. 
 
 :computer: <a href="https://github.com/cmeadowstech/Website">[website]</a> - Originally for the <a href="https://cloudresumechallenge.dev/">Cloud Resume Challenge</a>. Currently in the process of converting it over to the Django framework.
