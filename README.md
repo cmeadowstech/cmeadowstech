@@ -6,7 +6,7 @@ Cloud Engineer currently using GitHub to store my personal projects and scripts.
 
 :tea: [teahookup.com](https://github.com/cmeadowstech/tea-list) - Website built with Django, Bootstrap, and HTMX. Hosted on Fly.io with a PostGres database.
 
-:sunrise: [website](https://github.com/cmeadowstech/website-tw)- I have a couple different repositories for very different versions of my site. Currrent version was created with Tailwind CSS and is running on an Azure Static Web App.
+:sunrise: [website](https://github.com/cmeadowstech/website-tw) - I have a couple different repositories for very different versions of my site. Currrent version was created with Tailwind CSS and is running on an Azure Static Web App.
 
 :computer: [Proxmox VE Home Server](https://github.com/cmeadowstech/PVE-Home-Server) - Converted an old laptop to a home server using Proxmox VE, Terraform, and Ansible.
 
