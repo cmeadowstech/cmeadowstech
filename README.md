@@ -10,7 +10,7 @@ Cloud Engineer currently using GitHub to store my personal projects and scripts.
 
 :computer: [Proxmox VE Home Server](https://github.com/cmeadowstech/PVE-Home-Server) - Converted an old laptop to a home server using Proxmox VE, Terraform, and Ansible.
 
-:pencil: [Logic Apps](https://gist.github.com/rxaviers/7360908) - A collection of simple IAC and scripts from my time at Microsoft, supporting Azure Logic Apps.
+:pencil: [Logic Apps](https://github.com/cmeadowstech/Logic-Apps) - A collection of simple IAC and scripts from my time at Microsoft, supporting Azure Logic Apps.
 
 :suspension_railway: [[Terraform: Up and Running]](https://github.com/cmeadowstech/Terraform-Up-and-Running) - Based on the [book](https://www.terraformupandrunning.com/), but I am writing everything for Azure instead of AWS.
 
